@@ -1,0 +1,57 @@
+body{
+    background-color: #fff;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+.profile{
+    width: 375px;
+}
+
+.header{
+    text-align: center;
+    padding-bottom:23px;
+    border-bottom: 1px solid #000;
+
+}
+
+.main-image{
+    position: relative;
+    left: 50%;
+}
+
+.task{
+    font-size: 12px;
+    font-weight: 13px;
+    color: #000;
+}
+
+.ordering-link:visited{
+    color: #000;
+}
+
+.ordering-link{
+    text-decoration: none;
+}
+
+.ordering{
+    margin-bottom: 97px;
+    text-align: center;
+}
+
+.task-title{
+    padding-bottom: 8px;
+}
+
+.tasks{
+    text-align: center;
+}
+
+.header span{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
